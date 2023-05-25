@@ -5,7 +5,7 @@ Bundle-SymbolicName: org.jkiss.bundle.bouncycastle;singleton:=true
 Bundle-Version: 1.60.0
 Bundle-ClassPath: lib/bcpkix-jdk15on-1.60.jar,
  lib/bcprov-jdk15on-1.60.jar
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-Vendor: The Legion of the Bouncy Castle Inc.
 Eclipse-BundleShape: dir
 Export-Package: org.bouncycastle,
